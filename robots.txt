@@ -10,4 +10,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://procentix.pl/sitemap.xml
+Sitemap: https://percentage-calculator-two-puce.vercel.app/sitemap.xml

@@ -3,11 +3,11 @@
 > Procentix to darmowy polski kalkulator procentowy działający w przeglądarce. Liczy procent z liczby, jaki to procent, zmianę procentową, dodawanie i odejmowanie procentu oraz całość z części.
 
 ## Strony
-- [Kalkulator procentowy](https://procentix.pl/): sześć kalkulatorów, wzory, przykłady i FAQ
-- [Kalkulator rabatu](https://procentix.pl/kalkulator-rabatu): cena po rabacie, przed rabatem, dwa rabaty
-- [Kalkulator VAT](https://procentix.pl/kalkulator-vat): netto na brutto i brutto na netto
-- [Polityka prywatności](https://procentix.pl/polityka-prywatnosci)
-- [Kontakt](https://procentix.pl/kontakt): apnanarowal@gmail.com
+- [Kalkulator procentowy](https://percentage-calculator-two-puce.vercel.app/): sześć kalkulatorów, wzory, przykłady i FAQ
+- [Kalkulator rabatu](https://percentage-calculator-two-puce.vercel.app/kalkulator-rabatu): cena po rabacie, przed rabatem, dwa rabaty
+- [Kalkulator VAT](https://percentage-calculator-two-puce.vercel.app/kalkulator-vat): netto na brutto i brutto na netto
+- [Polityka prywatności](https://percentage-calculator-two-puce.vercel.app/polityka-prywatnosci)
+- [Kontakt](https://percentage-calculator-two-puce.vercel.app/kontakt): apnanarowal@gmail.com
 
 ## Fakty
 - Język: polski. Cena: bezpłatnie. Dane użytkownika nie są wysyłane na serwer.
